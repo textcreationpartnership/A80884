@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Declaratio Oliveri Cromwelli præsecti exercituum pro repub. et consilii sui militaris exhibens fundamenta, &amp; caussas dissolutionis nuperi Parlamenti. Ex Anglicano sermone in Latinum traducta.</title>
+            <author>Cromwell, Oliver, 1599-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80884</idno>
+            <idno type="STC">Wing C7054A</idno>
+            <idno type="STC">ESTC R227644</idno>
+            <idno type="EEBO-CITATION">99900006</idno>
+            <idno type="PROQUEST">99900006</idno>
+            <idno type="VID">136229</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80884)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136229)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2494:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Declaratio Oliveri Cromwelli præsecti exercituum pro repub. et consilii sui militaris exhibens fundamenta, &amp; caussas dissolutionis nuperi Parlamenti. Ex Anglicano sermone in Latinum traducta.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>typis Guilielmi Du-Gard,</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Declaration of Cromwell and his council of officers concerning dissolution of the Rump Parliament.</note>
+                  <note>Copy filmed at reel 2494:1 has upper margins closely trimmed, page numbers 7-9 wanting.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:136229:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <p>DECLARATIO Oliveri Cromwelli Praefecti Exercituum pro REPUB. ET <hi>Conſilii</hi> ſui <hi>Militaris;</hi> Exhibens fundamenta, &amp; cauſſas <hi>Diſſolutionis</hi> nuperi <hi>Parlamenti.</hi>
+            </p>
+            <p>Ex Anglicano Sermone in Latinum traducta.</p>
+            <figure>
+               <q xml:lang="lat">IN DOMINO CONFIDO</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDINI,</hi> Typis <hi>Guilielmi Du-Gard.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:136229:2"/>
+            <!-- PDF PAGE 110 -->
+            <pb n="1" facs="tcp:136229:2"/>
+            <!-- PDF PAGE 110 -->
+            <head>
+               <figure>
+                  <q xml:lang="lat">COR VNVM VIA VNA</q>
+                  <figDesc>blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>DECLARATIO Oliverii Cromwelli Praefecti Exercituum pro REPUB.</head>
+            <head type="sub">ET <hi>Conſilii</hi> ſui <hi>Militaris.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">N</seg>On eſt id praeſens inſtitutum no<g ref="char:EOLhyphen"/>ſtrum, rem ab initio repetere, rationéſque percenſere, quibus moti &amp; inducti, arma inprimis ſumpſimus, vitamque noſtram &amp; quicquid uſpiam charum fuit, huic <hi>Cauſae</hi> impendimus. Neque illud impraeſentiarum agimus, quo varias &amp; multiplices divinae Providentiae Diſ<g ref="char:EOLhyphen"/>penſationes, per quas ducti fuimus, ſigillatim reco<g ref="char:EOLhyphen"/>lamus;
+<pb n="2" facs="tcp:136229:3"/>
+               <!-- PDF PAGE 111 -->aut in memoriam revocemus, quoties nobis adſtipulatus eſt Deus, &amp; quàm luculenta benevolae ſuae acceptationis teſtimonia ſinceris immerentium ſuorum ſervorum conatibus adhibuit; interea dum illi multis magníſque difficultatibus colluctabantur, tam belli, quàm domi inter curas &amp; negotia trium Nationum. A <hi>Neceſsitate</hi> quandoque impulſi, quò melius eandem <hi>Cauſam,</hi> quam primùm aſſeruere, tuerentur, ad inuſitata &amp; extraordinaria provocare; quae omnia ex ante editis Declarationibus abundè ſatìs innoteſcant.</p>
+            <p>Poſtquam Deo viſum eſſet, non modò <hi>Hiberniam</hi> recuperare, <hi>Scotiàmque</hi> inſuper adjicere, verumetiam ad <hi>Wigorniam</hi> non ſine ſingulari Numinis praeſen<g ref="char:EOLhyphen"/>tiâ, &amp; quadam Emphaſi Providentiae <hi>Populi ſui partes agere;</hi> unde non levis Pax in iis Nationibus ſe<g ref="char:EOLhyphen"/>quuta erat, &amp; <hi>Anglia</hi> perfectae quieti ieddita; Adeó<g ref="char:EOLhyphen"/>que Parlamento pulcra ſeſe obtulit occaſio de Re<g ref="char:EOLhyphen"/>pub. bene merendi, tantíque ſanguinis &amp; ſudoris, támque ſumptuoſae ſementis vindemiam &amp; meſſem populo retribuendi, juſtaeque libertatis tam in Ci<g ref="char:EOLhyphen"/>vilibus quàm in Spiritualibus conſtabiliendae; quae quidem &amp; <hi>officia,</hi> &amp; <hi>promiſſa ſua,</hi> &amp; <hi>mirabilia,</hi> quae Deus pro iis operatus erat, jure meritóque poſtu<g ref="char:EOLhyphen"/>labant. Non levis dolor viros cordatos, &amp; bene<g ref="char:EOLhyphen"/>affectos inſedit, dum indies animadverterent, quàm frigidè &amp; lentè haec procederent; ideóque ad <hi>Ex<g ref="char:EOLhyphen"/>ercitum</hi> contendebant, adjutrices ejus manus implo<g ref="char:EOLhyphen"/>rantes, quò meliùs in poſterum eorum rebus con<g ref="char:EOLhyphen"/>ſuleretur. At cùm Exercitus ad ſe iis immiſcendum, quae ad Civilem Curiam propriiſſimè ſpectant, non niſi illibenter &amp; invitò adigeretur; in hoc tandem
+<pb n="3" facs="tcp:136229:3"/>
+               <!-- PDF PAGE 111 -->conſenſum eſt, Excellentiam ſuam, caeteróſque rei militaris praefectos, qui unà ex Ordine &amp; Numero Parlamenti erant, exorandos eſſe, ut Parlamento ſuaſores aſſiſterent &amp; hortatores eorum quae in Re<g ref="char:EOLhyphen"/>gimine depravata erant in melius collocandorum, utque Rei-pub. ſuper Juſtitiae &amp; Rectitudinis Baſi firmandae unicê &amp; ſtrenuè incumberent. Quod cù à nobis factum eſſet, Conſilia maturiùs inita fore ſperantibus, nihil minus à Parlamento exſpecta<g ref="char:EOLhyphen"/>vimus, quàm ut ſpe vanâ lactaremur. At poſt quam cum dolore perſentiſceremus, ab eo moras inutili<g ref="char:EOLhyphen"/>ter necti, iterum renovavimus noſtra deſideria, ſup<g ref="char:EOLhyphen"/>plicem libellum ultimo <hi>Augusti</hi> ei exhibentes, quem licèt id temporis in bonam partem ab iis ac<g ref="char:EOLhyphen"/>cipi prae ſe ferebant, gratias hac de re nobis refe<g ref="char:EOLhyphen"/>rentes, &amp; Capitula rerum propoſitarum Delegatis à Domo ſuâ perpendenda transmittentes, nihil ta<g ref="char:EOLhyphen"/>men indè memoratu dignum ſubſecutum eſt, néve talis factus eſt progreſſus, qui ullatenus teſtaretur ſe id ſeriò velle perficere quod rogabatur; quin è contra noſtrorum poſtulatorum certa quaedam aver<g ref="char:EOLhyphen"/>ſatio magìs magíſque indies inter eos apparuit, non ſine amarulentia &amp; inimicitia contra Dei Populum ſubinde ſe prodentibus; quae uſque adeò increve<g ref="char:EOLhyphen"/>rant, ut integerrimi illi viri &amp; maximè honorandi, qui tam antè, quàm durante bello, pro Deo bo<g ref="char:EOLhyphen"/>nóque publico tam eminenter ſe totos devoviſſent, ad caetera inutiles in Parlamento facti eſſent, prae<g ref="char:EOLhyphen"/>terquam unà cum <hi>prava Factione</hi> conveniendo, ad Autoritatem iis ſuâ praeſentiâ conciliandam, quò meliùs ſuis commodis velificarentur, atque id ef<g ref="char:EOLhyphen"/>fectum darent, cui prae reliquis ſtudebant, nempe
+<pb n="4" facs="tcp:136229:4"/>
+               <!-- PDF PAGE 112 -->ut <hi>Summum Imperium indeſinenter</hi> &amp; <hi>perpetuò ſibimet continuarent.</hi> Atque eundem in finem dicta Factio novae Populi <hi>Repraeſentativae</hi> diu ſe opponere non deſtitit, donec coacta demum ſchedulam illam ſive <hi>Billam</hi> in conſiderationem admittere, ut nunc aſtu eluderent quod priùs impedire non poterant, eâ hunc in finem utì fruíque apud ſe ſtatuunt, nempe ut viri ſuorum ſimillimi locis in Domo vacuis ſuc<g ref="char:EOLhyphen"/>centurientur, adeóque ſuus ipſorum Conſeſſus per<g ref="char:EOLhyphen"/>petuaretur. Quod quidem conſilium nonnulli ex eorum praefervidis &amp; promptioribus nequaquam oc<g ref="char:EOLhyphen"/>cultabant, quinimo ad ei aſſentiendum alios pelli<g ref="char:EOLhyphen"/>cere ſatagebant; quódque ut effectum ſuum ſorti<g ref="char:EOLhyphen"/>retur, plurimae Petitiones in diverſis Comitatibus ob Continuationem hujus Parlamenti ab eorum nonnullis, ſi non progenitae fuerint, erant ſaltem enutritae, iiſdémque ſi non ortum, debent tamen in<g ref="char:EOLhyphen"/>crementum.</p>
+            <p>Quò hiſce malis obviàm iretur, <hi>Ductores Exercitûs</hi> plurimi<add>
+                  <hi rend="sup">os</hi>
+               </add> cum nonnullis è Parlamento congreſſus im<g ref="char:EOLhyphen"/>petrârunt, in commune deliberaturi, quâ commo<g ref="char:EOLhyphen"/>diſſimâ ratione praeverterentur. At poſtquam omnes noſtri conatus irriti facti eſſent &amp; fruſtranei, Exer<g ref="char:EOLhyphen"/>citui tandem pro comperto erat, ſicut omnibus pru<g ref="char:EOLhyphen"/>dentibus &amp; aequis rerum aeſtimatoribus manifeſtum eſſe confidunt, <hi>Parlamentum</hi> hoc per nonnullorum <hi>pravitatem</hi> &amp; <hi>corruptelas,</hi> aliorum perverſas <hi>ſuſpicio<g ref="char:EOLhyphen"/>nes,</hi> plurimorum <hi>incuriam</hi> &amp; <hi>negligentias,</hi> ea mini<g ref="char:EOLhyphen"/>mè praeſtiturum, quae Deus, Populúſque ſuus, to<g ref="char:EOLhyphen"/>táque Natio ab eo multum diúque exſpectârant; quinimo fore, ut haec <hi>Cauſa,</hi> cui plurimum bene<g ref="char:EOLhyphen"/>dixit Dominus, quámque ſuo ſuffragio ſaepius com<g ref="char:EOLhyphen"/>probavit,
+<pb n="5" facs="tcp:136229:4"/>
+               <!-- PDF PAGE 112 -->ſub eorum manibus langueſceret, &amp; ſen<g ref="char:EOLhyphen"/>ſim expiraret; Vitáque, libertates, &amp; ſolatia po<g ref="char:EOLhyphen"/>puli ſui in inimicorum manus traderentur.</p>
+            <p>Quibus omnibus ab <hi>Exercitu,</hi> &amp; <hi>Conſultioribus Po<g ref="char:EOLhyphen"/>puli</hi> hujus Nationis ſeriò moeſtéque perpenſis, &amp; fuſis ad Deum precibus ut ſapientiam cordibus noſtris in<g ref="char:EOLhyphen"/>ſpiraret, greſſúſque dirigeret, officii noſtri eſſe duxi<g ref="char:EOLhyphen"/>mus, qui tantum potentiae &amp; praeſentiae divinae unà nobiſcum euntis experti ſumus, efficaciora aliqua re<g ref="char:EOLhyphen"/>media perquirere, ad eam <hi>Cauſam</hi> tutandam, in qua boni &amp; cordati viri hujus Reipub. tam diu colligati fuere, &amp; ad <hi>Juſtitiam</hi> unà cum <hi>Pace</hi> in his Natio<g ref="char:EOLhyphen"/>nibus conſtabiliendam.</p>
+            <p>Poſt multas altercationes neceſſarium adjudica<g ref="char:EOLhyphen"/>tum erat, &amp; in hanc ſententiam itum, quòd <hi>ſum<g ref="char:EOLhyphen"/>ma rerum</hi> &amp; <hi>Autoritas ſuprema,</hi> ad viros bene no<g ref="char:EOLhyphen"/>tos, rimentes Dei, &amp; ſpectatae integritatis, à Parla<g ref="char:EOLhyphen"/>mento deferretur, Reipub. regimine pro tempore illorum fidei concredito; quae ratio expeditiſſima viſa eſt, ad protegendum Dei populum, eíque vi<g ref="char:EOLhyphen"/>res addendas, ad Legem reformandam, &amp; Juſtitiam unicuique ci<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ra reſpectum adminiſtrandam. Atque indè ſpes affulgebat Populum poſſe <hi>Monarchiam</hi> obliviſci, atque intelligere quid è re ſua foret in fu<g ref="char:EOLhyphen"/>turis Parlamentis eligendis, atque ità demum Regi<g ref="char:EOLhyphen"/>men ſuper verâ Baſi firmaretur, abſque periclita<g ref="char:EOLhyphen"/>tione glorioſae hujus Cauſae, vel Exercituum Ope, qui in illius defenſionis diutiùs alerentur.</p>
+            <p>Et cû adhuc immoti perſiſteremus, nulli operae parcentes, quò minùs ad extraordinaria recurratur, à <hi>viginti</hi> circiter è Parlamenti numero impetravimus, ut <hi>collationem</hi> nobiſcum inſtituerent, quibuſcum <hi>Ne<g ref="char:EOLhyphen"/>ceſsitatem</hi>
+               <pb n="6" facs="tcp:136229:5"/>
+               <!-- PDF PAGE 113 -->&amp; <hi>aquitatem</hi> eorum quae à nobis propo<g ref="char:EOLhyphen"/>nebantur, liberè &amp; amicè diſceptavimus; &amp; liquidò evicimus, ea fuiſſe, non Decretum illud five <hi>Actum,</hi> quod ſub incude &amp; prae manibus eorum tunc erat, quae maximè probabiliter tale quippiam erant pro<g ref="char:EOLhyphen"/>ductura, quod ſimilitudinem aliquam &amp; conformi<g ref="char:EOLhyphen"/>tatem illi Operi haberet, cujus fundamenta ipſe Deus locavit, &amp; adhuc in mundo exequitur.</p>
+            <p>Quae tamen cùm ſurdis auribus exciperentur, at<g ref="char:EOLhyphen"/>que ex altera parte proponeretur conſultiſſimum eſ<g ref="char:EOLhyphen"/>ſe praeſens hoc Parlamentum continuare, à quo bo<g ref="char:EOLhyphen"/>na omnia rationabiliter exſpectari poterant, &amp; cûm hoc vehementer urgeretur, plurimum hinc roboris noſtrae ſententiae acceſſit, quam priûs imbiberamus, id quod ab iis dictum erat non ex Amore <hi>Reprae<g ref="char:EOLhyphen"/>ſentativae</hi> profluxiſſe, ſed ut eam privatis ſuis rebus accommodarent, dum alios in abſentium relictas provincias cooptando, Imperium ſibimetipſis pro<g ref="char:EOLhyphen"/>rogarent, atque hunc in ſcopum conſilia ſua colli<g ref="char:EOLhyphen"/>mâſſe.</p>
+            <p>Cum hac de re apertè cum iis ageretur, &amp; diſer<g ref="char:EOLhyphen"/>tis verbis reſponderetur, neque Nationem, nec <hi>Probitatis Cauſam,</hi> néve noſmetipſos talibus artificiis velle deluſum iri; dies craſtinus poſt meridiem al<g ref="char:EOLhyphen"/>teri conventui datus eſt, quò melius utrinque ſatiſ<g ref="char:EOLhyphen"/>factum foret; pollicentibus iis è Parlamento, qui tunc aderant, eorum conatus minimè defuturos, nè interea temporis quicquam à Parlamento decerne<g ref="char:EOLhyphen"/>retur, quod antedicta Propoſita intercipere poſſit aut evacuare.</p>
+            <p>Nihilominus tamen Parlamentum proximo manè in praedicto ſuo <hi>Acto</hi> procudendo ſolito magìs feſti<g ref="char:EOLhyphen"/>nabat,
+<pb facs="tcp:136229:5"/>
+               <!-- PDF PAGE 113 -->nemine omnium qui interfuere contranitente, quin &amp; adjuvantibus nonnullis, ex eorum numero, qui nocte praecedente fidem ſuam nobis in contra<g ref="char:EOLhyphen"/>rium obſtrinxerant. Et nunc ad extrema ſuffragia ultimámque diſquiſitionem deventum erat, de iſthoc <hi>Acto</hi> figendo &amp; ratum faciendo, quo facto, omnia quae à nobis propofita erant incaſſùm eſſent, omníſ<g ref="char:EOLhyphen"/>que iis aditus ad juſtum in Parlamento examen praecluſus.</p>
+            <p>Ad quod antevertendum, omniáque quae exin<g ref="char:EOLhyphen"/>de ſequutura erant mala, unde periculum bonis om<g ref="char:EOLhyphen"/>nibus, &amp; huic <hi>glorioſae Cauſae</hi> imminebat; quae, me<g ref="char:EOLhyphen"/>tuendum erat, nè uno ictu ſucciſa decumberet, atque hae Nationes novis motibus agitarentur, quo tempo<g ref="char:EOLhyphen"/>re hoſtes extranei ſuis occaſionibus invigilant noſtris infortuniis libenter fruituri, &amp; nonnulli bella nobiſ<g ref="char:EOLhyphen"/>cum actu gerunt; extremâ cogente <hi>Neceſsitate</hi> in<g ref="char:EOLhyphen"/>viti admodum &amp; reluctantes <hi>huic Parlamento finem impoſuimus.</hi> Quod tamen, utì ſperamus, ex ſincero corde fecimus, Cauſam hanc noſtris Nominibus, vitae, familiis, rebúſque quantumvis clariſsimis, ante<g ref="char:EOLhyphen"/>ferentes; certò nobiſcum ſtatuentes, <hi>Viros ſpectatae fi<g ref="char:EOLhyphen"/>delitatis, &amp; probitatis Reipub. gubernaculo admovere;</hi> credentes, ſicut nemo ſapie<g ref="char:cmbAbbrStroke">̄</g>ns exſpectat uvas è ſpinis decerpere, ità ſperabunt boni hujuſmodi viris ad re<g ref="char:EOLhyphen"/>gendum Electis &amp; Evocatis, fore, ut fructus juſtae reformationis diu multúmque precibus petitae, Deo benedicente, ſuo tempore colligantur; in eorum om<g ref="char:EOLhyphen"/>nium refrigerium, qui magnis votis haec ſuſpirâ<g ref="char:EOLhyphen"/>runt.</p>
+            <p>Multò plura potuimus congerere, ſi id à nobis age<g ref="char:EOLhyphen"/>retur, aliis inſpergendo labem, &amp; malam Rei-pub.
+<pb facs="tcp:136229:6"/>
+               <!-- PDF PAGE 114 -->adminiſtrationem palàm Omnibus propinando, ae<g ref="char:EOLhyphen"/>quitatis &amp; juſtitiae nomen Actionibus noſtris com<g ref="char:EOLhyphen"/>parare. Sed iis ſuperſedentes, in hoc tantummodo deſinemus, quòd ſicut <hi>Neceſsitate</hi> &amp; <hi>Providentiâ</hi> prae<g ref="char:EOLhyphen"/>euntibus, ad ea ducti fuimus, quae modò fecimus, ultra ſupráque cogitata noſtra &amp; deſideria: ità quod reliquum eſt magni hujus Operis, in eo exequendo, totos nos Domino &amp; coeleſti ſuae benedictioni re<g ref="char:EOLhyphen"/>ſignamus, &amp; ſemper reſignabimus; palàm profi<g ref="char:EOLhyphen"/>tentes, nos nè unum momentum poſſe conſiſtere, ultra quàm ipſe pedes noſtros firmaverit: multò minùs ea de quibus adhuc mentio facta fuit, quo<g ref="char:EOLhyphen"/>rum meſſis in ſpe &amp; herbâ viridi, abſque illius ope &amp; adminiculo poſſe perficere. Quocirca om<g ref="char:EOLhyphen"/>nes &amp; ſingulos publicè &amp; ſolenniter obteſtamur, ab iis id exſpectantes, quòd ſicut <hi>Dominum</hi> in eorum ruinam provocare nollent, ità illum exitum, ad quem ipſe res deducturus eſt, praeſtolarentur: út<g ref="char:EOLhyphen"/>que quietis &amp; ſedatis animis negotia ſua pertracta<g ref="char:EOLhyphen"/>rent, in quibus obeundis <hi>Protectionem</hi> &amp; <hi>Securitatem,</hi> per Dei aſſiſtentiam, iis pollicemur.</p>
+            <p>Quantum ad eos, qui timorem ſuum &amp; Amorem erga Dei nomen profitentur, quandoquidem ut pluri<g ref="char:EOLhyphen"/>mum eorum gratiâ &amp; juſtitiae cauſâ in his perpetrandis vitae noſtrae pericula inivimus, ab iis petimus, ut apud Dominum nocte diéque pro nobis intercederent, quò ab eo gratiam obtineamus. Et cùm ſaepius Nominis ejus mentionem fecimus, nè vel tantillo dedecore illud afficiamus, quae res nos ad extremum everteret, &amp; in<g ref="char:EOLhyphen"/>ſignem pietatis profeſsioni maculam affricaret.</p>
+            <p>Eos itaque hortamur, ut cum omni ſubmiſsione ani<g ref="char:EOLhyphen"/>mi, manſuetudine, juſtitiâ, charitate, ad ſeinvicem, &amp;
+<pb facs="tcp:136229:6"/>
+               <!-- PDF PAGE 114 -->erga genus humanum, ſeſe gererent; indè facturi ut ig<g ref="char:EOLhyphen"/>norantia ſtultorum, eos falſi incuſantium, obmuteſcat; utque penitùs cognoſcerent, ſe ex his nuperis magnis &amp; glorioſis Diſpenſationibus, in quibus Deus tam mi<g ref="char:EOLhyphen"/>rabiliter ſe conſpiciendum dedit, tanta haec per ſu<g ref="char:EOLhyphen"/>dorem &amp; ſanguinem filiorum ſuorum operatus, eò fir<g ref="char:EOLhyphen"/>miûs teneri &amp; obligari, ad vitam ſuam in ſapientia &amp; amore Chriſti ità ordinandam, ut dum viderint alii Chriſtum, non verbo tenus magìs quàm reapſe, iis ineſſe, honos &amp; reverentia piae ſuorum profeſsioni ali<g ref="char:EOLhyphen"/>unde concilientur.</p>
+            <p>In animo nobis eſt, intra breve particulatim magìs &amp; expreſsè monſtrare fundamenta hujus facti, &amp; co<g ref="char:EOLhyphen"/>pioſiùs exponere tam inſignis mutationis &amp; Actionis cauſas, quibus hac in chartula tantummodo digitum intendimus.</p>
+            <p>Atque ultimò declaramus, quòd omnes Judices, Vice-comites, Juſticiarii pacis, Praetores, Ballivi, Commiſsionatus, &amp; Commiſſarii, caeteríque civiles officiales, &amp; Miniſtri publici quicunque intra hanc Rem-pub. vel aliquam ex ejus Ditionibus, in officiis &amp; reſpectivis ſuis muneribus obeundis progrediantur; omnéſque &amp; ſingulae perſonae, cujuſcunque gradûs fuerint, eandem iis obedientiam praeſtanto, quam durante Parlamento praeſtitere.</p>
+            <closer>
+               <dateline>Albae-Aulae <date>22<hi rend="sup">do</hi> Aprilis, 1653.</date>
+               </dateline>
+               <signed>Signatum Nomine, &amp; Mandato Excellentiae ſuae, &amp; Conſilii ſui Militaris. <hi>GUILIELM. MALYN,</hi> Secret.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
